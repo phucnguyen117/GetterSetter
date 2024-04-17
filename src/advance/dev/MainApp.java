@@ -76,7 +76,7 @@ public class MainApp {
 			String PhoneNumber = sc.nextLine();
 			student[i] = new MainApp(name, age, Mark, Address, PhoneNumber);
 		}
-		sc.close();
+		
 	}
 
 }
